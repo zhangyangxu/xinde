@@ -5,9 +5,9 @@
 # 公众号appSecret
 "app_secret": "2930928f15a9b5c3b28291db82093ab8",
 # 模板消息id
-"template_id": "AGUceK_4btMvPJVlueJDble7f-U0lq04iKtj1zPSALI",
+"template_id": "Q-EgOtjMk8vvUYQJZHy4CH5vLPJ--fDBPYKesd498oQ",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["ogrwE6f77Jwadn_jFzZcX234sdoY","ogrwE6fbGdAEHQevUEIrdm4FfmUM"],
+"user": ["ogrwE6TbWl3fYYUdzy-gnWpGF7Z8"],
 # 信息配置
 # 所在省份
 "province": "内蒙古",
